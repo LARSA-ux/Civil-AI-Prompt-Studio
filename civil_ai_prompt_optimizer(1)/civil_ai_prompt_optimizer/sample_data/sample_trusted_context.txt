@@ -1,0 +1,9 @@
+SAMPLE TRUSTED CONTEXT — STOREY DRIFT
+
+Source label: Example lecture-note extract created for testing this application.
+
+Storey displacement is the lateral displacement of a floor relative to the base reference. Storey drift is the relative lateral displacement between two consecutive floors. A storey-drift ratio is commonly expressed as the relative displacement divided by the relevant storey height.
+
+For interpretation, do not assume that the maximum storey drift must occur at the top floor. Its location depends on the distribution of stiffness, mass, lateral forces, geometry, irregularities, and the structural system. A project-specific compliance check requires the governing design code, the analysis method, model assumptions, units, storey heights, load combinations, and the complete drift results.
+
+This sample does not provide a design-code clause or a real project dataset. Therefore, it cannot support a conclusion that a building is safe or code-compliant.
